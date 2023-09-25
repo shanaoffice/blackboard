@@ -1,0 +1,156 @@
+[
+  {
+    "role": "admin",
+    "side_bar_items": [
+      {
+        "title": "Home",
+        "items": [
+          {
+            "title": "Home page",
+            "to": "/home",
+            "element": "HomePage",
+            "icon": "GroupIcon",
+            "apiUrl": "HomePage"
+          }
+        ]
+      },
+      {
+        "title": "Attendance Management",
+        "items": [
+          {
+            "title": "Check-in/Check-out",
+            "to": "/Check-in/Check-out",
+            "element": "LogTable",
+            "icon": "ContactsOutlinedIcon"
+          }
+        ]
+      },
+      {
+        "title": "Leave Management",
+        "items": [
+          {
+            "title": "Leave Approval",
+            "to": "/AdminLeaveApply",
+            "icon": "CalendarMonthIcon",
+            "element": "AdminLeaveApply"
+          },
+          {
+            "title": "Leave History",
+            "to": "/LeaveRequests",
+            "icon": "TimelapseIcon",
+            "element": "LeaveRequests"
+          }
+        ]
+      },
+      {
+        "title": "Shift Management",
+        "items": [
+          {
+            "title": "View Shift",
+            "to": "/Viewshift",
+            "icon": "PersonOutlinedIcon",
+            "element": "Viewshift"
+          },
+          {
+            "title": "Bulk Assign Shift",
+            "to": "/BulkAssignShift",
+            "icon": "PendingActionsIcon",
+            "element": "Bulk"
+          },
+          {
+            "title": "Assign Shift",
+            "to": "/AssignShift",
+            "icon": "MoreTimeIcon",
+            "element": "Shift"
+          }
+        ]
+      },
+      {
+        "title": "Payroll",
+        "items": [
+          {
+            "title": "Process Payroll",
+            "to": "/payrollprocess",
+            "icon": "CurrencyRupeeIcon",
+            "element": "PayrollTable"
+          },
+          {
+            "title": "Payslip",
+            "to": "/Payslip",
+            "icon": "ContactsOutlinedIcon",
+            "element": "Payslip"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "role": "employee",
+    "side_bar_items": [
+      {
+        "title": "Home",
+        "items": [
+          {
+            "title": "HomePage",
+            "to": "/home",
+            "element": "HomePage",
+            "icon": "GroupIcon"
+          }
+        ]
+      },
+      
+      {
+        "title": "Attendance Management",
+        "items": [
+          {
+            "title": "Check-in/Check-out",
+            "to": "/Check-in/Check-out",
+            "element": "LogTable",
+            "icon": "ContactsOutlinedIcon",
+            "apiUrl": "Check-in/Check-out"
+          }
+        ]
+      },
+      {
+        "title": "Leave Management",
+        "items": [
+          {
+            "title": "Apply Leave",
+            "to": "/ApplyLeave",
+            "icon": "CalendarMonthIcon",
+            "element": "ApplyLeave"
+          },
+          {
+            "title": "Leave History",
+            "to": "/LeaveRequests",
+            "icon": "TimelapseIcon",
+            "element": "LeaveRequests"
+          }
+        ]
+      },
+      {
+        "title": "Shift Management",
+        "items": [
+          {
+            "title": "ViewShift",
+            "to": "/ViewShift",
+            "icon": "PersonOutlinedIcon",
+            "element": "ViewShift"
+          }
+        ]
+      },
+      {
+        "title": "Payroll",
+        "items": [
+       
+          {
+            "title": "Payslip",
+            "to": "/Payslip",
+            "icon": "ContactsOutlinedIcon",
+            "element": "Payslip"
+          }
+        ]
+      }
+    ]
+  }
+]

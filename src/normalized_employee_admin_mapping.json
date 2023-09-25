@@ -1,0 +1,46 @@
+[
+     {
+       "page_tab_name": "employee.ProfilePage",
+       "api_put_url": "/employee/id"
+     },
+     {
+       "page_tab_name": "employee.Summary",
+       "api_put_url": "/employee/id"
+     },
+     {
+       "page_tab_name": "employee.Generic Details",
+       "api_put_url": "/employeeAddress/id"
+     },
+     {
+       "page_tab_name": "employee.Address Details",
+       "api_put_url": "/employeesGeneric/id"
+     },
+     {
+       "page_tab_name": "employee.Profile Details",
+       "api_put_url": "/employeePersonalDetails/id"
+     },
+     {
+       "page_tab_name": "employee.Reporting",
+       "api_put_url": "/employeePersonalDetails/id"
+     },
+     {
+       "page_tab_name": "admin.ProfilePage",
+       "api_put_url": "/admin/id"
+     },
+     {
+       "page_tab_name": "admin.Summary",
+       "api_put_url": "/admin/id"
+     },
+     {
+       "page_tab_name": "admin.Address Details",
+       "api_put_url": "/adminsAddress/id"
+     },
+     {
+       "page_tab_name": "admin.Generic Details",
+       "api_put_url": "/adminsGeneric/id"
+     },
+     {
+       "page_tab_name": "admin.Profile Details",
+       "api_put_url": "/adminsPersonalDetails/id"
+     }
+   ]

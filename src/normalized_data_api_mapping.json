@@ -1,0 +1,42 @@
+[
+  {
+    "page_tab_name": "Student.ProfilePage",
+    "api_put_url": "/Student/id"
+  },
+  {
+    "page_tab_name": "Student.Summary",
+    "api_put_url": "/Student/id"
+  },
+  {
+    "page_tab_name": "Student.Address Details",
+    "api_put_url": "/StudentAddress/id"
+  },
+  {
+    "page_tab_name": "Student.Generic Details",
+    "api_put_url": "/StudentsGeneric/id"
+  },
+  {
+    "page_tab_name": "Student.Profile Details",
+    "api_put_url": "/StudentPersonalDetails/id"
+  },
+  {
+    "page_tab_name": "Staff.ProfilePage",
+    "api_put_url": "/Staff/id"
+  },
+  {
+    "page_tab_name": "Staff.Summary",
+    "api_put_url": "/Staff/id"
+  },
+  {
+    "page_tab_name": "Staff.Address Details",
+    "api_put_url": "/StaffsAddress/id"
+  },
+  {
+    "page_tab_name": "Staff.Generic Details",
+    "api_put_url": "/StaffsGeneric/id"
+  },
+  {
+    "page_tab_name": "Staff.Profile Details",
+    "api_put_url": "/StaffsPersonalDetails/id"
+  }
+]

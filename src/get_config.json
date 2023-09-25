@@ -1,0 +1,18 @@
+[
+  {
+    "path": "/",
+    "element": "Login"
+  },
+  {
+    "path": "/Student/:id",
+    "element": "StudentPage"
+  },
+  {
+    "path": "/Staff/:id",
+    "element": "StaffPage"
+  },
+  {
+    "path": "/employee/:id",
+    "element": "Employee"
+  }
+]
