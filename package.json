@@ -56,7 +56,7 @@
     "web-vitals": "^2.1.4",
     "yup": "^0.32.11"
   },
-  "proxy": "http://192.168.0.204:8000",
+  "proxy": "https://github.com/shanaoffice/blackboardbackend",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
